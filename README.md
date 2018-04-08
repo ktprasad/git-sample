@@ -1,2 +1,2 @@
 # git-sample
-origin - master - local update
+branch 2 commit
