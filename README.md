@@ -1,2 +1,2 @@
 # git-sample
-branch 1 commit
+branch 2 commit
